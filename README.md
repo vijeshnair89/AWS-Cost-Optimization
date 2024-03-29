@@ -7,3 +7,5 @@ If there is snapshot which has not volume attached to it will be deleted.
 
 Scenario 2:
 If there is a snapshot with a volume attached but the volume has no running instance attached, then the snapshot will be removed.
+
+
